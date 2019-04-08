@@ -1,0 +1,21 @@
+========================================================================
+Help for Mp3 Tag Reader and Editor:
+========================================================================
+
+
+# For viewing the tags: ./mp3_tag_reader -v <.mp3 file>
+
+
+# For editing the tags: ./mp3_tag_reader -e <.mp3 file> <modifier> <tag>
+
+
+## Modifier	Function:
+     -t		Modifies Title Tag
+     -T		Modifies Track tag
+     -a		Modifies Artist tag
+     -A		Modifies Album tag
+     -y		Modifies Year tag
+     -c		Modifies Comment tag
+     -g		Modifies Genre tag
+
+========================================================================
